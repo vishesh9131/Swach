@@ -1,6 +1,6 @@
-#  SWACH - Swach Bharat Link
+#  SWACH - Swach 
 
-Welcome to the official repository for **SWCH (Swachh Bharat Link)**, a civic-tech initiative aimed at empowering cleanliness, accountability, and public participation in urban and rural sanitation drives.
+Welcome to the official repository for **Swach**, a civic-tech initiative aimed at empowering cleanliness, accountability, and public participation in urban and rural sanitation drives.
 
 ---
 
@@ -33,7 +33,7 @@ To maintain clean separation of concerns and modular development, this repositor
 
 ## 📖 Documentation
 
-- Detailed documentation is under the [`docs`](https://github.com/your-org/swch/tree/docs) branch
+- Detailed documentation is under the [`docs`](https://github.com/vishesh9131/swch/tree/docs) branch
 - API contracts and schema definitions will be maintained as OpenAPI specs
 
 ---
@@ -49,6 +49,6 @@ To maintain clean separation of concerns and modular development, this repositor
 All coordination, issue tracking, and development discussion will be handled via GitHub Issues and Pull Requests.
 
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the AGPLv3 License. See the `LICENSE` file for details.
 
 
