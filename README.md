@@ -1,4 +1,4 @@
-# SWCH - Swachh Bharat Link
+#  SWACH - Swach Bharat Link
 
 Welcome to the official repository for **SWCH (Swachh Bharat Link)**, a civic-tech initiative aimed at empowering cleanliness, accountability, and public participation in urban and rural sanitation drives.
 
@@ -50,7 +50,5 @@ All coordination, issue tracking, and development discussion will be handled via
 
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 
