@@ -1,0 +1,44 @@
+# Build artifacts
+build/
+bin/
+lib/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Test artifacts
+tests/bin/
+tests/*.o
+tests/*.gcda
+tests/*.gcno
+coverage/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Dependency directories
+deps/
+vendor/
+
+# Python-related (if applicable)
+__pycache__/
+*.pyc
+*.pyo
