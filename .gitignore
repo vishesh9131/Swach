@@ -8,6 +8,10 @@ lib/
 *.dylib
 *.exe
 
+# temporary directories
+temp/
+tmp/
+
 # CMake generated files
 CMakeCache.txt
 CMakeFiles/
